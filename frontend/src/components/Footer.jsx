@@ -95,7 +95,7 @@ function Footer() {
                 <div className='border-t border-gray-300 mt-12 pt-8'>
                     <div className='flex flex-col md:flex-row justify-between items-center gap-4'>
                         <p className='text-gray-600 text-sm text-center md:text-left'>
-                            © 2024 AI Powered Fashion Store. All rights reserved.
+                            © 2025 AI Powered Fashion Store. All rights reserved.
                         </p>
                         <div className='flex gap-6'>
                             <a href="#" className='text-gray-500 hover:text-gray-700 transition-colors'>
